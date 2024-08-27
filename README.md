@@ -6,8 +6,6 @@
 
 스팀판, 공식 깃헙 버전과 세이브 데이터를 공유합니다.
 
-현 버전은 공식 깃헙의 v2.4.2 버전 기반입니다.
-
 # Shattered Pixel Dungeon
 
 [Shattered Pixel Dungeon](https://shatteredpixel.com/shatteredpd/) is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. It's based on the [source code of Pixel Dungeon](https://github.com/00-Evan/pixel-dungeon-gradle), by [Watabou](https://www.watabou.ru).
