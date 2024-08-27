@@ -1,4 +1,4 @@
-# Only Skin and associated Code modified
+# Shattered Pixel Dungeon Skin Mod
 
 공식 깃헙 소스와 리소스를 다운받아서 스킨과 관련 코드만 수정한 버전입니다.
 
