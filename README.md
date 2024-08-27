@@ -1,3 +1,13 @@
+# Only Skin and associated Code modified
+
+공식 깃헙 소스와 리소스를 다운받아서 스킨과 관련 코드만 수정한 버전입니다.
+
+그 외에는 변경된 게 없는 스킨 씌운 녹픽던입니다.
+
+스팀판, 공식 깃헙 버전과 세이브 데이터를 공유합니다.
+
+현 버전은 공식 깃헙의 v2.4.2 버전 기반입니다.
+
 # Shattered Pixel Dungeon
 
 [Shattered Pixel Dungeon](https://shatteredpixel.com/shatteredpd/) is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. It's based on the [source code of Pixel Dungeon](https://github.com/00-Evan/pixel-dungeon-gradle), by [Watabou](https://www.watabou.ru).
