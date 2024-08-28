@@ -64,8 +64,8 @@ public class MirrorSprite extends MobSprite {
 		run = new Animation( 1, true );
 		run.frames( film, 1, 2, 3, 4, 5, 6, 7, 8 );
 
-		die = new Animation( 8, false );
-		die.frames( film, 9 );
+		die = new Animation( 2, false );
+		die.frames( film, 9, 10, 11, 12 );
 
 		attack = new Animation( 18, false );
 		attack.frames( film, 19, 20, 21, 22, 23, 24 );
