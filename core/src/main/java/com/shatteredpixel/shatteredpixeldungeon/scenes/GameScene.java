@@ -344,7 +344,7 @@ public class GameScene extends PixelScene {
 		spells = new Group();
 		add( spells );
 
-		//add(overFogEffects);
+		add(overFogEffects);
 		
 		statuses = new Group();
 		add( statuses );
