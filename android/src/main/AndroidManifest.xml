@@ -25,7 +25,7 @@
 
 	<application
 		android:icon="@mipmap/ic_launcher"
-		android:label="BrownPixDun"
+		android:label="${appName}"
 		android:theme="@android:style/Theme.Black.NoTitleBar"
 		android:resizeableActivity="true"
 		android:allowBackup="true"
